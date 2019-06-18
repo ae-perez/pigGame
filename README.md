@@ -5,3 +5,6 @@ Game covers things like:
 - conditional statements like: if/else statements, for loops
 - function calls
 - methods that manipulate the data for the game to function correctly 
+
+
+*Please note: there are a few bugs that need to be fixed but the appearance corresponding to the functionality work! :D 
