@@ -7,4 +7,4 @@ Game covers things like:
 - methods that manipulate the data for the game to function correctly 
 
 
-*Please note: there are a few bugs that need to be fixed but the appearance corresponding to the functionality work! :D 
+*Please note: there are a few bugs that need to be fixed but the appearance that go hand and hand with the functionality, work! :D 
